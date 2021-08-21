@@ -1,0 +1,98 @@
+.logo{ 
+    color:royalblue;
+    background-color: yellow;
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 65px;
+    margin-left: 50%;
+}
+.heading
+{
+    color: white;
+    font-size: 45px;
+    font-weight: bold;
+}
+.alignment
+{
+    position:absolute;
+    top: 20%;
+    left:20%;
+}
+.location
+{
+    width: 220px;
+    height: 28px;
+    margin-left: 11%;
+}
+.search
+{
+    width: 360px;
+    height: 28px;
+}
+.item
+{
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    border: solid 1px black;
+}
+#hello
+{
+    border: dotted 2px red;
+    margin-top: 50px;
+    padding-left: 20px;
+}
+.quick
+{
+font-size: x-large;
+color: blue;
+font-family: fantasy;
+height: 35ppx;
+margin-left: 80px;
+}
+.meal
+{
+    color: black;
+    font-family: fantasy;
+    height: 60px;
+    margin-left: 80px;
+}
+
+.item
+{
+    box-shadow: 5px 3px 10px 10px dimgrey;
+    margin-left: 80px;
+    display: inline-block;
+    width: 320px;
+    height: 106px;
+    border: solid 0px black;
+    margin-bottom: 10px;
+}
+.img 
+{
+    width: 125px;
+    height: 103px;
+    margin: -5px -112px -2px -5px;
+    padding: 7px 6px 8px;
+    position: absolute;
+    border-radius: 26px;
+}
+.break
+{
+position: absolute; 
+margin-left: 131px;
+font-family: fantasy;
+color: blue;
+font-size: larger;
+}  
+.start
+{
+    
+    font-family: cursive;
+    margin-left: 128px;
+    margin-top: 28px;
+    font-size: medium;
+    position:absolute;
+}
